@@ -39,7 +39,7 @@ My machine (port 13733) sent a SYN packet to a remote server on port 443, with S
 
 
 
-![TCP SYN](synflag.png)
+![TCP SYN](syn flag.png)
 
 
 
@@ -48,7 +48,7 @@ The server responded on port 443 back to my machine's port 13733, with `Ack: 1` 
 
 
 
-![TCP SYN-ACK](serverrespons.png)
+![TCP SYN-ACK](server respons.png)
 
 
 
